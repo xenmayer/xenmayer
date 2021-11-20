@@ -11,7 +11,8 @@ I'm doing my best as a tech lead for the [Intergiro](https://intergiro.com/) and
 
 ### I’m currently working on 
 
-- 🎙[The ZnProd (RU) podcast](https://soundcloud.com/znprod) It's the weekly entertaiment podcast about CS, IT, developers life and sometimes IT managers life. 
+- 🎙 [The ZnProd (RU) podcast](https://soundcloud.com/znprod) - It's the weekly entertaiment podcast about CS, IT, developers life and sometimes IT managers life. 
+- 🤖 [The expenses bot](https://github.com/xenmayer/geek-expenses-telegram-bot) - It's the Telegram bot with the GoogleSpreadsheet database. It seems to be as private as possible. Please feel free to contribute 🙂 .
 
 ### The only actual CV
 
