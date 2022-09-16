@@ -1,7 +1,7 @@
 ### whoami 👋
 
 Hi there,
-I'm doing my best as a tech lead for the [Intergiro](https://intergiro.com/) and in parallel trying to improve some parts of this world.
+I'm doing my best as a tech lead for the [Mobyrix](https://mobyrix.com/) and in parallel trying to improve some parts of this world.
 
 ### I can be helpful in
 
@@ -11,7 +11,7 @@ I'm doing my best as a tech lead for the [Intergiro](https://intergiro.com/) and
 
 ### I’m currently working on 
 
-- 🎙 [The ZnProd (RU) podcast](https://soundcloud.com/znprod) - It's the weekly entertaiment podcast about CS, IT, developers life and sometimes IT managers life. 
+- 🎙 [The ZnProd (RU) podcast](https://soundcloud.com/znprod) - It was the weekly entertaiment podcast about CS, IT, developers life and sometimes IT managers life. We've stop producing new shows after the war was started.
 - 🤖 [The expenses bot](https://github.com/xenmayer/geek-expenses-telegram-bot) - It's the Telegram bot with the GoogleSpreadsheet database. It seems to be as private as possible. Please feel free to contribute 🙂 .
 
 ### The only actual CV
