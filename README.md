@@ -1,22 +1,44 @@
-### whoami 👋
+### Whoami 👋
 
 Hi there,
-I'm doing my best as a tech lead for the [Mobyrix](https://mobyrix.com/) and in parallel trying to improve some parts of this world.
+
+I'm Engineering leader with a proven track record in building and scaling international development teams. Specializing in fintech, SaaS, and e-commerce sectors. Excel in aligning technical strategies with business objectives with hands-on experience in Go, Node.js, and PHP backend development. Open to remote opportunities where I can contribute to technological growth and team excellence.
 
 ### I can be helpful in
 
-- Architecting high level solutions
-- Implementing any level stuff
-- Facilitating communications
-
-### I’m currently working on 
-
-- 🎙 [The ZnProd (RU) podcast](https://soundcloud.com/znprod) - It was the weekly entertaiment podcast about CS, IT, developers life and sometimes IT managers life. We've stop producing new shows after the war was started.
-- 🤖 [The expenses bot](https://github.com/xenmayer/geek-expenses-telegram-bot) - It's the Telegram bot with the GoogleSpreadsheet database. It seems to be as private as possible. Please feel free to contribute 🙂 .
+- **Technical Leadership:** Steering engineering teams towards delivering scalable solutions
+- **Process Optimization:** Implementing agile methodologies to enhance productivity
+- **Cross-Functional Collaboration:** Bridging gaps between technical teams and business stakeholders
+- **Technical Expertise:** Proficient in Go, Node.js, PHP with strong backend development foundation
+- **Strategic Planning:** Aligning technology initiatives with business goals
 
 ### The only actual CV
 
 https://www.linkedin.com/in/nikitavasilchenko/
+
+### Professional Experience (overall)
+
+**Co-Owner -** Lotta502 - [Jul 2024 - May 2025]
+
+**Lead Software Engineer** - MOBYRIX - [Jul 2022 - Jul 2024]
+
+**Backend Team Lead & Technical Architect** - MUJO AI - [Sep 2023 - May 2024]
+
+**Engineering Team Lead** - Intergiro - [May 2021 - Apr 2022]
+
+**Senior Software Engineer** - Intergiro - [Sep 2020 - May 2021]
+
+**Head Of Backend Development Department** - GreyLoud - [May 2020 - Sep 2020]
+
+**Team Lead** - GreyLoud - [Aug 2019 - May 2020]
+
+**Senior PHP Developer** - 404 Group - [Apr 2018 - Aug 2019]
+
+**Lead Software Engineer/CTO** - Pita's - [Jan 2017 - Apr 2018]
+
+**Backend Developer** - Gazelkin - [May 2016 - Dec 2016]
+
+**Backend Developer** - InternetTraffic - [Feb 2015 - Apr 2016]
 
 ### Hobbies
 
@@ -24,7 +46,11 @@ https://www.linkedin.com/in/nikitavasilchenko/
   - https://soundcloud.com/xen-mayer
   - Playing guitar
 - Dirt bike riding (lite, amateur)
+- Motorcicle rider (HD Sportster)
 
+### How to reach me:
+- [Linkedin](https://www.linkedin.com/in/nikitavasilchenko/)
+- [Telegram](https://t.me/xenmayer)
 
 <!--
 **xenmayer/xenmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
