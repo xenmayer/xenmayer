@@ -47,6 +47,7 @@ https://www.linkedin.com/in/nikitavasilchenko/
   - Playing guitar
 - Dirt bike riding (lite, amateur)
 - Motorcicle rider (HD Sportster)
+- Amateur boxing
 
 ### How to reach me:
 - [Linkedin](https://www.linkedin.com/in/nikitavasilchenko/)
