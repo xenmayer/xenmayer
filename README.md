@@ -9,7 +9,7 @@ I'm Engineering leader with a proven track record in building and scaling intern
 - **Technical Leadership:** Steering engineering teams towards delivering scalable solutions
 - **Process Optimization:** Implementing agile methodologies to enhance productivity
 - **Cross-Functional Collaboration:** Bridging gaps between technical teams and business stakeholders
-- **Technical Expertise:** Proficient in Go, Node.js, PHP with strong backend development foundation
+- **Technical Expertise:** Proficient in PHP, Node.js, Go with strong backend development foundation
 - **Strategic Planning:** Aligning technology initiatives with business goals
 
 ### The only actual CV
