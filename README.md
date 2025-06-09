@@ -2,7 +2,7 @@
 
 Hi there,
 
-I'm Engineering leader with a proven track record in building and scaling international development teams. Specializing in fintech, SaaS, and e-commerce sectors. Excel in aligning technical strategies with business objectives with hands-on experience in Go, Node.js, and PHP backend development. Open to remote opportunities where I can contribute to technological growth and team excellence.
+I'm Engineering leader with a proven track record in building and scaling international development teams. Specializing in fintech, SaaS, and e-commerce sectors. Excel in aligning technical strategies with business objectives with hands-on experience in PHP, Node.js, Go backend development. Open to remote opportunities where I can contribute to technological growth and team excellence.
 
 ### I can be helpful in
 
