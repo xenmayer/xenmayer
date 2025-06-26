@@ -1,15 +1,13 @@
 ### Whoami 👋
 
-Hi there,
-
-I'm Engineering leader with a proven track record in building and scaling international development teams. Specializing in fintech, SaaS, and e-commerce sectors. Excel in aligning technical strategies with business objectives with hands-on experience in PHP, Node.js, Go backend development. Open to remote opportunities where I can contribute to technological growth and team excellence.
+Hi there!
 
 ### I can be helpful in
 
+- **Technical Expertise:** Proficient in PHP, Node.js, Go with strong backend development foundation
 - **Technical Leadership:** Steering engineering teams towards delivering scalable solutions
 - **Process Optimization:** Implementing agile methodologies to enhance productivity
 - **Cross-Functional Collaboration:** Bridging gaps between technical teams and business stakeholders
-- **Technical Expertise:** Proficient in PHP, Node.js, Go with strong backend development foundation
 - **Strategic Planning:** Aligning technology initiatives with business goals
 
 ### The only actual CV
