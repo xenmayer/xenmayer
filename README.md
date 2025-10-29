@@ -16,6 +16,8 @@ https://www.linkedin.com/in/nikitavasilchenko/
 
 ### Professional Experience (overall)
 
+**Tech Lead -** GameArtKit - [Jul 2025 - Present]
+
 **Co-Owner -** Lotta502 - [Jul 2024 - May 2025]
 
 **Lead Software Engineer** - MOBYRIX - [Jul 2022 - Jul 2024]
