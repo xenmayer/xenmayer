@@ -4,7 +4,7 @@ Hi there!
 
 ### I can be helpful in
 
-- **Technical Expertise:** Proficient in PHP, Node.js, Go with strong backend development foundation
+- **Technical Expertise:** Proficient in Python, PHP, Node.js with strong backend development foundation
 - **Technical Leadership:** Steering engineering teams towards delivering scalable solutions
 - **Process Optimization:** Implementing agile methodologies to enhance productivity
 - **Cross-Functional Collaboration:** Bridging gaps between technical teams and business stakeholders
