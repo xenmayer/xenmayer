@@ -1,69 +1,58 @@
-### Whoami 👋
+# Nikita Vasilchenko
 
-Hi there!
+**Engineering leadership | Backend, platform, and AI-enabled products**
 
-### I can be helpful in
+I have spent 11+ years building backend and platform systems, leading engineers, and working across architecture, delivery, and technical strategy.
 
-- **Technical Expertise:** Proficient in Python, PHP, Node.js with strong backend development foundation
-- **Technical Leadership:** Steering engineering teams towards delivering scalable solutions
-- **Process Optimization:** Implementing agile methodologies to enhance productivity
-- **Cross-Functional Collaboration:** Bridging gaps between technical teams and business stakeholders
-- **Strategic Planning:** Aligning technology initiatives with business goals
+Over time I have worked as a CTO, Tech Lead, architect, and hands-on senior engineer. I tend to work best where a team needs both technical direction and practical execution.
 
-### The only actual CV
+These days I am especially interested in how AI agents, LLM-based features, vector search, and automation can be applied in products and engineering workflows without turning into process theater.
 
-https://www.linkedin.com/in/nikitavasilchenko/
+## Focus
 
-### Professional Experience (overall)
+- Technical leadership for product teams
+- Backend and platform architecture
+- Engineering process, delivery, and team effectiveness
+- AI-assisted workflows and AI product features
+- Founder, product, and engineering alignment
 
-**Tech Lead -** GameArtKit - [Jul 2025 - Present]
+## AI & Agentic Engineering
 
-**Co-Owner -** Lotta502 - [Jul 2024 - May 2025]
+I work with AI agents regularly and keep track of what is actually useful beyond demos.
 
-**Lead Software Engineer** - MOBYRIX - [Jul 2022 - Jul 2024]
+- Moving teams from non-AI workflows to practical agent-assisted execution
+- Building and advising on products that use LLMs, vector search, automation, and AI-driven features
+- Adapting engineering processes so AI improves throughput instead of creating extra noise
+- Staying hands-on with new tools, implementation patterns, and developer workflows
 
-**Backend Team Lead & Technical Architect** - MUJO AI - [Sep 2023 - May 2024]
+## Leadership Path
 
-**Engineering Team Lead** - Intergiro - [May 2021 - Apr 2022]
+- **Tech Lead** - GameArtKit
+- **Co-Owner** - Lotta502
+- **Lead Software Engineer** - MOBYRIX
+- **Backend Team Lead & Technical Architect** - MUJO AI
+- **Engineering Team Lead / Senior Software Engineer** - Intergiro
+- **Head Of Backend Development Department / Team Lead** - GreyLoud
+- **Lead Software Engineer / CTO** - Pita's
 
-**Senior Software Engineer** - Intergiro - [Sep 2020 - May 2021]
+Full background: [LinkedIn](https://www.linkedin.com/in/nikitavasilchenko/)
 
-**Head Of Backend Development Department** - GreyLoud - [May 2020 - Sep 2020]
+## Public Engineering Signals
 
-**Team Lead** - GreyLoud - [Aug 2019 - May 2020]
+- [wgtray](https://github.com/xenmayer/wgtray) - macOS WireGuard menu bar app in Go with include/exclude routing rules
+- [dockerized-laravel-boilerplate](https://github.com/xenmayer/dockerized-laravel-boilerplate) - bootstrap environment for Laravel with PHP, Nginx, Redis, and Postgres
+- [geek-expenses-telegram-bot](https://github.com/xenmayer/geek-expenses-telegram-bot) - Telegram bot automation project
+- [fakeGitter](https://github.com/xenmayer/fakeGitter) - small Python project around git stats
 
-**Senior PHP Developer** - 404 Group - [Apr 2018 - Aug 2019]
+## Core Stack
 
-**Lead Software Engineer/CTO** - Pita's - [Jan 2017 - Apr 2018]
+Python, PHP, Go, Node.js, Laravel, FastAPI, Docker, Postgres, Redis, backend architecture, developer productivity, AI agents, vector search, and AI-enabled product development.
 
-**Backend Developer** - Gazelkin - [May 2016 - Dec 2016]
+## Contact
 
-**Backend Developer** - InternetTraffic - [Feb 2015 - Apr 2016]
+Open to conversations around CTO, Fractional CTO, Tech Lead, and technical co-founder work.
 
-### Hobbies
-
-- Music
-  - https://soundcloud.com/xen-mayer
-  - Playing guitar
-- Dirt bike riding (lite, amateur)
-- Motorcicle rider (HD Sportster)
-- Amateur boxing
-
-### How to reach me:
-- [Linkedin](https://www.linkedin.com/in/nikitavasilchenko/)
+- [LinkedIn](https://www.linkedin.com/in/nikitavasilchenko/)
 - [Telegram](https://t.me/xenmayer)
 
-<!--
-**xenmayer/xenmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work: music, guitar, motorcycles, dirt riding, and boxing.
